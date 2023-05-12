@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    font-weight: bolder;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgb(80, 79, 79);
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
