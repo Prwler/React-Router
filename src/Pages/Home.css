@@ -17,5 +17,36 @@ p{
 .button{
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
+    margin-top: 3rem;
+}
+
+.btn{
+    border-radius: 30px;
+}
+
+.bookshelf-react{
+    margin-top: 3rem;
+    margin-right: 5rem;
+    float: right;
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    font-weight: bolder;
+    font-size: 20px;
+    color: rgb(80, 79, 79);
+}
+
+.list{
+    margin-top: 2rem;
+}
+
+.list-item{
+    margin-left: 5rem;
+    
 }
