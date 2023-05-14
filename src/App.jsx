@@ -1,4 +1,4 @@
-import { Link, Route, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Home from "./Pages/Home.jsx"
 import Book from "./Pages/Book.jsx"
